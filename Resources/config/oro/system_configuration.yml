@@ -1,4 +1,4 @@
-oro_system_configuration:
+system_configuration:
     fields:
         oro_entity_pagination.enabled:
             data_type: boolean
